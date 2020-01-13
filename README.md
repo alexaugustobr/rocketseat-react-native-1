@@ -1,5 +1,7 @@
 # rocketseat-react-native-1
 
+$ANDROID_HOME/tools/bin/sdkmanager --licenses
+
 npx react-native run-android
 
 react-native start
